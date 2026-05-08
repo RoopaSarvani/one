@@ -756,8 +756,8 @@
         const PRODUCTS = [{
                 id: 1,
                 title: 'iPhone 14 Pro Max',
-                price: 1099,
-                oldPrice: 1199,
+                price: 1299,
+                oldPrice: 1099,
                 rating: 5,
                 reviews: 128,
                 badge: 'New',
@@ -776,8 +776,8 @@
             {
                 id: 3,
                 title: 'Apple Watch Series 8',
-                price: 349,
-                oldPrice: 399,
+                price: 329,
+                oldPrice: 349,
                 rating: 5,
                 reviews: 214,
                 badge: '-25%',
